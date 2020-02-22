@@ -1,0 +1,148 @@
+{
+  "lotdetails": [],
+  "agencies": [
+    {
+      "agenNo": 1,
+      "agenNom": "Agence SkyImmo",
+      "agenNomCourt": "Agence SkyImmo",
+      "cultures": "fr-FR",
+      "sites": []
+    },
+    {
+      "agenNo": 2,
+      "agenNom": "Agence SkyImmo",
+      "agenNomCourt": "Agence SkyImmo",
+      "cultures": "it-IT",
+      "sites": []
+    },
+    {
+      "agenNo": 3,
+      "agenNom": "Agence SkyImmo",
+      "agenNomCourt": "Agence SkyImmo",
+      "cultures": "us-US",
+      "sites": []
+    },
+    {
+      "agenNo": 4,
+      "agenNom": "Agence SkyImmo",
+      "agenNomCourt": "Agence SkyImmo",
+      "cultures": "es-ES",
+      "sites": []
+    },
+    {
+      "agenNo": 5,
+      "agenNom": "Agence SkyImmo",
+      "agenNomCourt": "Agence SkyImmo",
+      "cultures": "uk-UK",
+      "sites": []
+    }
+  ],
+  "sites": [
+    {
+      "siteNo": 1,
+      "siteNom": "Sky Immobilier",
+      "siteNomCourt": "SKY-01",
+      "siteAddr1": "Les jardins de l'alliance",
+      "siteAddr2": "70, rue des Alliés",
+      "siteAddr3": null,
+      "siteCp": "38100",
+      "siteVille": "Grenoble",
+      "sitePays": "France",
+      "siteTel1": "04 76 25 34 73",
+      "siteTel2": "04 76 25 34 50",
+      "siteFax": "04 76 25 34 47",
+      "siteHttp": "http://skyimmo.com",
+      "siteMail": "info@sky.com",
+      "siteLieu": "Grenoble",
+      "siteAlpha1": "RCS SKYIMMO",
+      "siteAlpha2": "51428874448887",
+      "agenNo": 2
+    },
+    {
+      "siteNo": 2,
+      "siteNom": "Sky Immobilier",
+      "siteNomCourt": "SKY-01",
+      "siteAddr1": "Les jardins de l'alliance",
+      "siteAddr2": "70, rue des Alliés",
+      "siteAddr3": null,
+      "siteCp": "38100",
+      "siteVille": "Grenoble",
+      "sitePays": "France",
+      "siteTel1": "04 76 25 34 73",
+      "siteTel2": "04 76 25 34 50",
+      "siteFax": "04 76 25 34 47",
+      "siteHttp": "http://skyimmo.com",
+      "siteMail": "info@sky.com",
+      "siteLieu": "Grenoble",
+      "siteAlpha1": "RCS SKYIMMO",
+      "siteAlpha2": "51428874448887",
+      "agenNo": 1
+    },
+    {
+      "siteNo": 3,
+      "siteNom": "Sky Immobilier",
+      "siteNomCourt": "SKY-01",
+      "siteAddr1": "Les jardins de l'alliance",
+      "siteAddr2": "70, rue des Alliés",
+      "siteAddr3": null,
+      "siteCp": "38100",
+      "siteVille": "Grenoble",
+      "sitePays": "France",
+      "siteTel1": "04 76 25 34 73",
+      "siteTel2": "04 76 25 34 50",
+      "siteFax": "04 76 25 34 47",
+      "siteHttp": "http://skyimmo.com",
+      "siteMail": "info@sky.com",
+      "siteLieu": "Grenoble",
+      "siteAlpha1": "RCS SKYIMMO",
+      "siteAlpha2": "51428874448887",
+      "agenNo": 3
+    },
+    {
+      "siteNo": 4,
+      "siteNom": "Sky Immobilier",
+      "siteNomCourt": "SKY-01",
+      "siteAddr1": "Les jardins de l'alliance",
+      "siteAddr2": "70, rue des Alliés",
+      "siteAddr3": null,
+      "siteCp": "38100",
+      "siteVille": "Grenoble",
+      "sitePays": "France",
+      "siteTel1": "04 76 25 34 73",
+      "siteTel2": "04 76 25 34 50",
+      "siteFax": "04 76 25 34 47",
+      "siteHttp": "http://skyimmo.com",
+      "siteMail": "info@sky.com",
+      "siteLieu": "Grenoble",
+      "siteAlpha1": "RCS SKYIMMO",
+      "siteAlpha2": "51428874448887",
+      "agenNo": 1
+    }
+  ],
+  "cities": [
+    {
+      "cityNo": 6,
+      "cityCode": "GN",
+      "name": "Pita",
+      "countryCode": "GN",
+      "lat": 9.663305,
+      "lng": -13.577969
+    },
+    {
+      "cityNo": 7,
+      "cityCode": "GN",
+      "name": "Labe",
+      "countryCode": "GN",
+      "lat": 9.663305,
+      "lng": -13.577969
+    },
+    {
+      "cityNo": 8,
+      "cityCode": "GN",
+      "name": "Lelouma",
+      "countryCode": "GN",
+      "lat": 9.663305,
+      "lng": -13.577969
+    }
+  ]
+}
