@@ -32,7 +32,22 @@
       "lotSurfHabitable": 25,
       "lotSurfTotale": 25,
       "libLotType": "STUDIO",
-      "lotCaution": 250.0
+      "lotCaution": 250.0,
+      "frais": [
+        {
+          "fraisType": "Type de frais",
+          "fraisOrdre": "",
+          "fraisInclure": true,
+          "fraisLibelle": "libelle",
+          "fraisMontant": 25.0
+        }
+      ],
+      "lotPhotos": [
+        "https://www.tourisme-lorraine.fr/sitlorimg/1920/0/aHR0cHM6Ly93d3cuc2l0bG9yLmZyL3Bob3Rvcy84MzgvODM4MTYwMjg0XzQuanBn.jpg",
+        "https://www.residences-pythagore.fr/wp-content/uploads/2014/07/2_pga-445x360.jpg",
+        "https://www.tourisme-lorraine.fr/sitlorimg/1920/0/aHR0cHM6Ly93d3cuc2l0bG9yLmZyL3Bob3Rvcy84MzgvODM4MTYwMjg0XzguanBn.jpg",
+        "https://img-fr-1.trovit.com/r5bgD6by/r5bgD6by.1_11.jpg"
+      ]
     }
   ],
   "agencies": [
