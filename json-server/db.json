@@ -1,5 +1,40 @@
 {
-  "lotdetails": [],
+  "lotdetails": [
+    {
+      "lotNo": 1,
+      "lotAgenNo": "ID de l'agence",
+      "lotSiteNo": "ID du site",
+      "dispo": true,
+      "lotRef": "REF0528",
+      "immeNom": "Residence Belle ville",
+      "rating": "5",
+      "ratingVisible": true,
+      "lotDescTitle": "Description de l'hébergement",
+      "lotDesc": "Description de l'hébergement",
+      "lotPax": "5",
+      "pSr": 12.0,
+      "prix": 12.0,
+      "tauxPromo": 12.0,
+      "lotClassement": 5,
+      "libLotClassement": 5,
+      "lotConfort": 5,
+      "libLotConfort": 5,
+      "lotEntrNom": "Entrée sud",
+      "lotEtage": 5,
+      "lotPorte": 5,
+      "lotNbCabine": 2,
+      "lotNbChambre": 5,
+      "nbLitSimple": 2,
+      "nbLitDouble": 2,
+      "nbWc": 1,
+      "nbSdb": 1,
+      "nbPiece": 1,
+      "lotSurfHabitable": 25,
+      "lotSurfTotale": 25,
+      "libLotType": "STUDIO",
+      "lotCaution": 250.0
+    }
+  ],
   "agencies": [
     {
       "agenNo": 1,
